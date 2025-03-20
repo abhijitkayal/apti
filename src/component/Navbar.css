@@ -1,0 +1,15 @@
+.menu-bar{
+  display: flex;
+
+}
+.menu-bar ul{
+  display: flex;
+  gap: 10rem;
+  text-decoration: none;
+  margin-left:45px;
+  justify-content:start;
+}
+
+
+
+
